@@ -1,7 +1,10 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</br>
+
 <h1 align="center">Hi there! 👋 I'm Huss Russ</h1>
 <h3 align="center">A Passionate Frontend Developer from Mexico</h3>
+</br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hussruss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
@@ -39,10 +42,6 @@
 ></p>
 >
 
-### GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussruss&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussruss&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussruss&" alt="GitHub Streak" /></p>
 
 ### Let's Connect!
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hussrusse) or check out my music journey on [Instagram](https://instagram.com/hussrussdrums). I'm always up for a chat about tech, music, or anything interesting!
